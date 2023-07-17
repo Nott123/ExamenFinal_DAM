@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAM_EXAMEN_FINAL_GRANADOS</string>
+    <string name="idtitulo">Instagram</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_account_box">Facebook</string>
+    <string name="title_favoritas">Instagram</string>
+    <string name="title_notas">Mi perfil</string>
+</resources>
