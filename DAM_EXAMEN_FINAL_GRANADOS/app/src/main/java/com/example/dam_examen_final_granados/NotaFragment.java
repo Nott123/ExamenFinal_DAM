@@ -75,7 +75,7 @@ public class NotaFragment extends Fragment {
             notaList.add(new Nota("Examen Sustitutorio","Examen Sustitutorio planificado para el día 24 de julio del 2023. Asistir puntualmente a todos los que se van a presentar.", true, android.R.color.holo_blue_light));
             notaList.add(new Nota("Fiestas Patrias", "Desfiles militares, ferias gastronómicas y recorridos turísticos se abren para celebrar en este año 2023. ¡Felíz día del Perú!\n",false, android.R.color.holo_green_light));
             notaList.add(new Nota("Despedida de Ciclo\n","Aprecio mucho su amistad, su participación en las sesiones de clases, cada ciclo es una nueva experiencia, deseo que sigan estudiando. Muchas Felicidades. Nos vemos el 2023 - II\n\n", true, android.R.color.holo_orange_light));
-            notaList.add(new Nota("Trabajo Académico","Las notas del trabajo académico fueron revisadas e ingresadas el día 16 de Julio", true, android.R.color.holo_blue_light));
+            notaList.add(new Nota("Estudia y superate","Todas las distintas capacidades que el hombre posee de la mente, del alma y del cuerpo le fueron dadas por Dios para que las dedique a alcanzar el más alto grado de excelencia posible. Toda facultad y todo atributo con que el Creador nos haya dotado deben emplearse para su gloria y para el ennoblecimiento de nuestros semejantes. Y en este empleo se halla la ocupación más pura, más noble y más feliz.\n", true, android.R.color.holo_blue_light));
             adapterNotas = new MyNotaRecyclerViewAdapter(notaList, mListener);
             recyclerView.setAdapter(adapterNotas);
 
